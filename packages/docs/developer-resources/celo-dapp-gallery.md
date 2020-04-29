@@ -14,6 +14,12 @@ Decentralized application to help coordinate and improve the impact metric of no
 
 Github: https://github.com/nestorbonilla/bienvenir
 
+## PesaBase
+
+Pesabase is the easiest place for you to remit and make payments. We make transfers to your friends and family instantly.
+
 ## Add your app to this list!
 
 _Are you building on Celo? To add your project, please submit a pull request updating this page!_
+
+
